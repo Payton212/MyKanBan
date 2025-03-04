@@ -19,3 +19,8 @@ WHEN I try to access the Kanban board page without being authenticated
 THEN I am redirected to the login page
 WHEN I remain inactive for a defined period
 THEN my session expires, the JWT is invalidated, and I am redirected to the login page upon my next action
+
+
+renderLink: https://mykanban-hbde.onrender.com
+
+GithubLink: https://github.com/Payton212/MyKanBan
